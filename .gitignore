@@ -168,3 +168,4 @@ chicken/
 # Artifacts
 artifacts/*
 scores.json
+*.png
